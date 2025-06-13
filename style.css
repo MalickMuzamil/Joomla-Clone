@@ -1,0 +1,18 @@
+.bg-img{
+    background: url(priscilla-du-preez-XkKCui44iM0-unsplash.jpg);
+    background-size: cover;
+}
+
+.bg-icon{
+    border-radius:100% ;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-1{
+   text-align: -webkit-center;
+}
