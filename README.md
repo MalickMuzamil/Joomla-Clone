@@ -12,7 +12,7 @@
 ## 📄 Description
 
 🎯 A pixel-perfect static clone of the Joomla official website built using **HTML5**, **CSS3**, and **Bootstrap 5**.  
-Fully responsive, modern layout with reusable components, animations, and cross-browser compatibility — ideal for frontend portfolio and practice.
+Fully responsive, modern layout with reusable components, animations, and cross-browser compatibility ideal for frontend portfolio and practice.
 
 ---
 
@@ -20,7 +20,7 @@ Fully responsive, modern layout with reusable components, animations, and cross-
 
 ✅ Responsive layout for desktop, tablet, and mobile  
 
-✅ Navbar, Hero section, Feature grids, Footer – all styled to match Joomla site  
+✅ Navbar, Hero section, Feature grids, Footer all styled to match Joomla site  
 
 ✅ Bootstrap utility classes and components  
 
@@ -44,7 +44,7 @@ Fully responsive, modern layout with reusable components, animations, and cross-
 
 ### 📥 Clone the Repository
 
-1- git clone https://github.com/your-username/joomla-clone.git
+1- git clone https://github.com/MalickMuzamil/joomla-clone.git
 2- cd joomla-clone
 
 🌐 Open in Browser
@@ -53,17 +53,24 @@ Fully responsive, modern layout with reusable components, animations, and cross-
 2- OR double-click the file if you’re on Windows/macOS.
 
 ## 📁 Project Structure
+
 joomla-clone/
+
 ├── index.html
+
 ├── /assets/
+
 │   ├── css/
+
 │   ├── images/
+
 │   └── js/
+
 └── README.md
 
 ---
 
-##📚 Learnings
+### 📚 Learnings
 
 ✅ Mastered responsive design using Bootstrap Grid and utilities
 
